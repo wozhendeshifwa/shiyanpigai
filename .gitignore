@@ -1,0 +1,6 @@
+data/
+*.xlsx
+*.pdf
+*.aigc-tmp
+*.ref/
+__pycache__/
